@@ -6,3 +6,5 @@ Weapon Type: Straight Sword
 Attack Type: Regular
 Enchantable: Yes
 Special: No
+
+Requirements (Str/Dex/Int/Fth): 10/10/0/0
